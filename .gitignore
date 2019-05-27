@@ -69,3 +69,4 @@ functions/.eslintrc.json
 functions/node_modules/
 functions/package-lock.json
 /app/fabric.properties
+node_modules
